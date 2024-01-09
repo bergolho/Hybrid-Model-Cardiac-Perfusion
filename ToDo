@@ -1,0 +1,4 @@
+- Garantir que os dois resolvedores retornam o mesmo resultado
+- Rodar o "busca_proximal()" somente uma vez e armazenar o resultado em um map<int, pair<int,int>>
+- Na solucao das arvores em vez que chamar o "busca_proximal()" usar o mapa.
+- 
